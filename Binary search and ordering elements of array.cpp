@@ -66,9 +66,9 @@ int compareFloatAscending (const void* a, const void* b)
 
 {
 
-   float fa = *(float*)a;  // cast a,b from void* pointer to float* pointer
+   float fa = *(float*)a;  
 
-   float fb = *(float*)b;  // and then deference them.
+   float fb = *(float*)b;  
 
    if (fa < fb)
 
@@ -87,9 +87,9 @@ int compareFloatDescending (const void* a, const void* b)
 
 {
 
-   float fa = *(float*)a;  // cast a,b from void* pointer to float* pointer
+   float fa = *(float*)a;  
 
-   float fb = *(float*)b;  // and then deference them.
+   float fb = *(float*)b;  
 
    if (fa > fb)
 
