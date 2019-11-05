@@ -1,5 +1,5 @@
 //Semih CAL
-//Assignmnet3, Ex1.
+
 
 #include <iostream>
 #include <cstring>
