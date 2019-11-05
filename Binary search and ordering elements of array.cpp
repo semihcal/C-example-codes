@@ -1,5 +1,4 @@
 //Semih CAL
-//Assignmnet2, Ex2.
 #include <iostream>
 #include <stdlib.h>
 #include <math.h> 
